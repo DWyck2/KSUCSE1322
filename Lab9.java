@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Lab9 {
     static int recursive_multiply(int num1,int num2){
         if (num2==1){
             return num1;
